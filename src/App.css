@@ -1,0 +1,70 @@
+
+.videosClass{
+  width: 30;
+  width: 100vw;
+  display: flex;
+  /* flex-wrap: wrap; */
+  overflow-y: scroll;
+}
+
+.video{
+  height: 300px;
+  width:250px;
+  margin-left :20px;
+  margin-right : 20px ;
+  margin-top : 10px;
+  margin-bottom : 20px;
+  
+}
+
+.imageClass{
+  width: 30;
+  width: 100vw;
+  display: flex;
+  /* flex-wrap: wrap; */
+  overflow-y: scroll;
+}
+
+.image{
+  height: 250px;
+  width:250px;
+  margin-left : 20px;
+  margin-right : 20px;
+  margin-top : 20px;
+  margin-bottom : 20px;
+  
+}
+
+.upload{
+  text-align:center;
+  margin-top:20px
+  
+}
+button{
+  font-size: 15px;
+  height: 40px;
+  width:80px
+}
+
+h1{
+  color:white;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 3rem;
+}
+
+
+.popupImage{
+  height: 800px;
+  width: 700px;
+}
+
+.popupVideo{
+  height: 800px;
+  width: 700px;
+}
+
+
+.popup{
+  text-align: center;
+}

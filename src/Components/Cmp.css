@@ -1,0 +1,6 @@
+.Scrollable{
+    height: 30px;
+    width:50%;
+    overflow-y: scroll;
+    white-space: nowrap;
+}
